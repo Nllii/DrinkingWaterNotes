@@ -1,0 +1,2 @@
+#if you are on catalina $pip install --only-binary=:macosx_10_15_x86_64: -r requirements.txt
+geopy
