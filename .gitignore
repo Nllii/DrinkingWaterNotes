@@ -1,9 +1,10 @@
 cities.txt
 closecities.txt
-upload_hltcorp.js
 __pycache__
 
 com.hltcorp.awwa.sqlite
 plantOperator_copy.py
-hltcorpApi.py
 quiz.py
+node_modules
+package-lock.json
+credentials.txt
