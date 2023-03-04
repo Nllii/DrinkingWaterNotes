@@ -11,7 +11,10 @@ You will need to provide your own database to run the project.
 
 
 
-
 ### TODO
-- [ ] Add more database to the project
+- [ ] Find a way to categorize the questions.
+- [ ] Add more database to the project.
+- [ ] create a pdf generator.
+- [ ] Take all the data and put it in markdown.
+- [ ] Add a search bar.
 
